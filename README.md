@@ -18,3 +18,4 @@ quick sort.c
 stack applications.c
 tree transversal (1).c
 insertion deletion avl tree.c
+factorial without recursion.c
